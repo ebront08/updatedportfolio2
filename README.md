@@ -1,5 +1,6 @@
 # Updated Portfolio 
   https://github.com/ebront08/Updated Portfolio 
+  Deployed link: https://ebront08.github.io/updatedportfolio2/
 # Description
 This is the second rendition of our portfolio.
 # Table of Contents 
